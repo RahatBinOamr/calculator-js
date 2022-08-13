@@ -3,14 +3,19 @@ html , body {
     height: 100%;
     width: 100%;
     font-family: 'Roboto', sans-serif;
+  
+    background-color: rgb(231, 242, 243);
+
 }
 .button{
     width: 65px;
     padding: 20px;
     margin: 0 3px;
     border: 2px solid black;
-    border-radius: 9px;
+    border-radius: 20px;
     cursor: pointer;
+     color: black;
+     background-color:chartreuse;
 }
 .row{
     margin: 7px 0;
