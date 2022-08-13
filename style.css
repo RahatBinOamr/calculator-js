@@ -2,11 +2,14 @@
 html , body {
     height: 100%;
     width: 100%;
+   
     font-family: 'Roboto Slab', serif;
   
-    background-color: rgb(231, 242, 243);
+    background-color: #e7f2f3;
 
 }
+
+
 .button{
     width: 65px;
     padding: 20px;
@@ -14,7 +17,7 @@ html , body {
     border: 2px solid black;
     border-radius: 20px;
     cursor: pointer;
-     color: black;
+     color: #040000;
      background-color:chartreuse;
      font-size:17px;
 }
