@@ -2,7 +2,7 @@
 html , body {
     height: 100%;
     width: 100%;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
   
     background-color: rgb(231, 242, 243);
 
@@ -16,6 +16,7 @@ html , body {
     cursor: pointer;
      color: black;
      background-color:chartreuse;
+     font-size:17px;
 }
 .row{
     margin: 7px 0;
